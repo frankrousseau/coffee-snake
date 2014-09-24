@@ -1,0 +1,14 @@
+{
+  "name": "snake",
+  "type": "static",
+  "displayName": "Snake",
+  "version": "1.0.0",
+  "description": "Snake html5 game",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankrousseau/coffee-snake.git"
+  },
+  "main": "index.html",
+  "cozy-displayName": "Snake"
+}
